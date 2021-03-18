@@ -1,0 +1,89 @@
+
+#principal{
+	width: 1200px;
+	height: 1300px;
+	margin: auto;
+	border-radius: 10px;
+	background-color: #9999ff;
+
+}
+
+.imagen{
+padding-left: 100px;
+padding-top: 50px;
+
+}
+
+p {
+
+	font-family: cursive; 
+	font-size: 16px;
+	color: #252850;
+}
+h1{
+	font-family: cursive;
+	font: oblique bold 120% cursive;
+	font-size: 25px;
+	padding-left : 400px;
+}
+h2{
+	font-family: cursive;
+	font-size: 20px;
+	color: blue;
+	padding-left: 425px;
+}
+h3 {
+     font-family: cursive;
+	font-size: 18px;
+    color: darkblue;
+}
+
+.hobbies{
+float: left;
+padding-right: 100px;
+padding-left: 50px;
+font-family: condensed 120% sans-serif;
+
+}
+.peliculas{
+	padding: auto;
+	float: left;
+	padding-right: 100px;
+	font-family: condensed 120% sans-serif;
+
+}
+
+table {
+
+ font-family: sans-serif;
+ font-size: 14px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+ ul, li {
+font-family:  fantasy;
+	}
+
+.boton{
+text-decoration: none;
+background: #1f53c5;
+border: none;
+padding: 5px 10px;
+color: white;
+margin-bottom: ;
+font-family: cursive;
+font-size: 20px 0;
+border-radius: 10px;
+
+	}
